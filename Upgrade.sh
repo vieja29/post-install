@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script para actualizar Huayra
+# Script para actualizar Huayra o Debian
 
 autor="Ricardo Villar"
 scriptVersion="1.11.01"
