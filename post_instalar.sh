@@ -244,9 +244,9 @@ fi
 #    sudo ./
 #    rm
 #fi
+
 echo -e "\n Descargando scripts de actualizacion de la distribución.\n (Para ejecutar tipee ./upgrade.sh)\n"
-wget -c https://www.dropbox.com/scl/fi/xgf877lzudprekemhmj2k/Upgrade.sh?rlkey=qn4c4k9xg5a5naxi3aacdg0hg&st=1eqj5fdk&dl=0
-mv Upgrade.sh?rlkey=qn4c4k9xg5a5naxi3aacdg0hg Upgrade.sh
+wget -c https://raw.githubusercontent.com/vieja29/post-install/refs/heads/master/Upgrade.sh
 chmod +x Upgrade.sh
 sleep 1
 #echo -e "\n Descargando scripts de instalacion a travez de BACKPORTS de tú distribución base. (Para ejecutar tipee install_backports.sh) \n."
