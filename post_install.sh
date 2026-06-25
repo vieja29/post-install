@@ -4,7 +4,7 @@
 #libreoffice, man español, gedit, latex
 autor="RICARDO VILLAR"
 #MAIL:rvillarbravo@gmail.com
-scriptVersion="2.0.5"
+scriptVersion="2.0.6"
 distro_detect=`lsb_release -si`
 distro_arch=`uname -m`
 #########################################################################################################################################
